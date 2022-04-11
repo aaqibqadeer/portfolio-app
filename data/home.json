@@ -1,0 +1,25 @@
+{
+  "header": {
+    "title": "Aaqib Qadeer Soomro",
+    "navigationLinks": [
+      { "name": "Home", "url": "#home" },
+      { "name": "About", "url": "#home" },
+      { "name": "Skills", "url": "#home" },
+      { "name": "Services", "url": "#home" },
+      { "name": "Portfolio", "url": "#home" },
+      { "name": "Contact", "url": "#home" }
+    ]
+  },
+  "intro": {
+    "title": "Hi,I am Aaqib",
+    "subtitle": "Frontend Developer",
+    "description": "High level experience in web design",
+    "buttonText": "Contact Me",
+    "imgUrl": "profile_picture.jpg"
+  },
+  "footer": {
+    "name": "Aaqib Qadeer Soomro",
+    "description": "Software Engineer",
+    "copyrightMessage": "© AaqibQadeer. All rights reserved"
+  }
+}

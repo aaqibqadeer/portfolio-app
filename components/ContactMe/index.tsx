@@ -46,8 +46,8 @@ export const ContactMe = () => {
               <textarea
                 name=""
                 id=""
-                cols="0"
-                rows="7"
+                cols={0}
+                rows={7}
                 className="contact__input"
               ></textarea>
             </div>
